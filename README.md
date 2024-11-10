@@ -13,7 +13,10 @@ Bu araç, metin verilerini analiz edebilmek için onları kelime sıklıklarına
 1. **Temel CountVectorizer Kullanımı:** 
    - CountVectorizer'ın temel işleyişi ve parametreleri hakkında örnekler.
    - Metinlerin nasıl sayısal veriye dönüştürüldüğüne dair örnek kodlar.
+   - CountVectorizer'ın bazı parametrelerinin kullanımı.
 
 2. **Spam E-Mail Tespit Modeli:**
+   - Hugginface'den dataset yüklenmesi ve veri ön işleme adımları.
    - Spam ve ham e-maillerden oluşan örnek veri seti üzerinde CountVectorizer ve Random Forest algoritması kullanarak model oluşturulması.
+   - Modelin score değerlerinin gösterimi.
    - E-mail içeriklerinin spam olup olmadığını tespit etmek için modelin kullanımı.
