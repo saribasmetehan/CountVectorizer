@@ -20,3 +20,6 @@ Bu araç, metin verilerini analiz edebilmek için onları kelime sıklıklarına
    - Spam ve ham e-maillerden oluşan örnek veri seti üzerinde CountVectorizer ve Random Forest algoritması kullanarak model oluşturulması.
    - Modelin score değerlerinin gösterimi.
    - E-mail içeriklerinin spam olup olmadığını tespit etmek için modelin kullanımı.
+
+## Medium yazısı:
+   - CountVectorizer Nedir? CountVectorizer ve Random Forest ile Spam E-mail Tespiti ve Sınıflandırma adında bu kodlar ile oluşturduğum, hem teorik bilgi hem de bazı kodları daha detaylı anlattığım Medium yazı linki: https://medium.com/@metehansaribas001/countvectorizer-nedir-countvectorizer-ve-random-forest-ile-spam-e-mail-tespiti-ve-sınıflandırma-72546e9ea027
